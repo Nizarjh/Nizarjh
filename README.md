@@ -21,7 +21,7 @@ I'm a backend developer passionate about building cross-platform applications an
 ---
 
 ## 📫 Connect with Me
-[Telegram](https://t.me/nizarjh) • [Email](mailto:chel773@tutamail.com)
+[Telegram](https://t.me/niarjh) • [Email](mailto:chel773@tutamail.com)
 
 ---
 ## 🎯 Current Focus
