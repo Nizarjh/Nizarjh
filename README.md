@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Crab](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=400&color=00F775&width=435&lines=what+if+crab+was+a+dev%3F;t.me%2Fkrabozaar)](https://t.me/krabozaar)
 ## About Me
 I'm a backend developer passionate about building cross-platform applications and exploring low-level systems with Rust. Currently diving deep into Java + Spring and modern Linux tooling.
 
