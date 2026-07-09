@@ -4,7 +4,7 @@
 I'm a backend developer passionate about building cross-platform applications and exploring low-level systems with Rust. Currently diving deep into Java + Spring and modern Linux tooling.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Nizarjh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Nizarjh&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="600px" />
+  <img alt="Nizarjh's Github Stats" src="https://github-stats-extended.vercel.app/api/?username=Nizarjh&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="600px" />
 </a>
 
 ---
